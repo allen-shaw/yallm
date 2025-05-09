@@ -4,3 +4,11 @@
 *.ptx
 *.cubin
 *.fatbin
+
+.vscode/
+.history/
+build/
+
+**/.DS_Store
+
+*.code-workspace
